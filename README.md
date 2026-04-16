@@ -2,9 +2,9 @@
 
 ## Overview
 
-This project is an end-to-end **Retrieval-Augmented Generation (RAG) system** that functions as an AI-powered customer support assistant. It enables users to ask natural language questions and receive context-aware answers grounded in a custom knowledge base (pricing, FAQs, and API documentation).
+This project is an end-to-end **Retrieval-Augmented Generation (RAG) system** that functions as an AI-powered customer support assistant. It enables users to ask natural language questions and receive context-aware answers grounded in a custom knowledge base (pricing, FAQs and API documentation).
 
-The system combines **document retrieval, vector search, and large language models** to generate accurate and relevant responses.
+The system combines **document retrieval, vector search and large language models** to generate accurate and relevant responses.
 
 ---
 
