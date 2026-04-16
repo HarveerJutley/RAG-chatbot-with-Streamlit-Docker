@@ -1,0 +1,43 @@
+CloudSync AI - Troubleshooting Guide
+
+Issue: Unable to log in
+Solution:
+- Check your email and password are correct
+- Reset your password if necessary
+- Clear browser cache and try again
+
+Issue: API returning 401 Unauthorized
+Solution:
+- Ensure your API key is valid
+- Check that your token has not expired
+- Regenerate API key from dashboard if needed
+
+Issue: Workflows not triggering
+Solution:
+- Check trigger conditions are correctly configured
+- Ensure integrations are connected
+- Review logs in the dashboard
+
+Issue: Slow performance
+Solution:
+- Check internet connection
+- Reduce the number of active workflows
+- Upgrade to Pro plan for better performance
+
+Issue: Integration not working
+Solution:
+- Reconnect the integration
+- Check permissions are granted
+- Verify third-party service status
+
+Issue: Payment failed
+Solution:
+- Check card details
+- Ensure sufficient funds
+- Contact your bank if necessary
+
+Issue: Dashboard not loading
+Solution:
+- Refresh the page
+- Clear browser cache
+- Try a different browser

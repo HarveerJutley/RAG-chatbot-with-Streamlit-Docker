@@ -1,0 +1,35 @@
+### Free Plan:
+Cost: £0/month
+Includes:
+- Basic automation workflows
+- Limited API access
+- Community support
+
+### Pro Plan:
+Cost: £15/month
+Includes:
+- Advanced workflows
+- Full API access
+- Priority email support
+- Analytics dashboard
+
+### Enterprise Plan:
+Cost: £30/month
+Includes:
+- Unlimited workflows
+- Dedicated account manager
+- 24/7 support
+- Custom integrations
+- SLA guarantees
+
+Billing Information:
+- Payments are processed monthly or annually.
+- Annual plans receive a 10% discount.
+- All payments are handled securely via Stripe.
+
+Upgrade and Downgrade:
+- Users can change plans at any time.
+- Changes take effect immediately.
+
+Late Payments:
+- Accounts may be suspended after 7 days of failed payment attempts.

@@ -1,0 +1,21 @@
+Refund Policy:
+Refunds are available within 14 days of purchase for monthly subscriptions.
+Annual subscriptions are non-refundable after activation.
+
+Privacy Policy:
+We collect minimal user data required for service functionality.
+All data is encrypted in transit and at rest.
+
+Data Usage:
+User data is never sold to third parties.
+Data is used solely to improve service performance.
+
+Security:
+We follow industry-standard security protocols.
+Regular audits and monitoring are conducted.
+
+Account Suspension:
+Accounts may be suspended for:
+- Violation of terms
+- Non-payment
+- Suspicious activity

@@ -1,0 +1,43 @@
+CloudSync AI - API Documentation
+
+Authentication:
+All API requests require a Bearer Token.
+Include the following header:
+Authorization: Bearer YOUR_API_KEY
+
+Base URL:
+https://api.cloudsyncai.com/v1/
+
+Endpoints:
+
+GET /users
+Description: Retrieve a list of users
+Response: JSON array of user objects
+
+POST /workflow
+Description: Create a new workflow
+Parameters:
+- name (string)
+- trigger (string)
+- action (string)
+
+GET /workflow/{id}
+Description: Retrieve workflow details
+
+DELETE /workflow/{id}
+Description: Delete a workflow
+
+Rate Limits:
+- Free Plan: 100 requests per hour
+- Pro Plan: 1000 requests per hour
+- Enterprise Plan: Unlimited
+
+Errors:
+401 Unauthorized - Invalid API key
+403 Forbidden - Access denied
+429 Too Many Requests - Rate limit exceeded
+
+Best Practices:
+- Store API keys securely
+- Use retries for failed requests
+- Monitor usage via dashboard
