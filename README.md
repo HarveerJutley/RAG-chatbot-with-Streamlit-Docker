@@ -85,3 +85,29 @@ The system combines **document retrieval, vector search, and large language mode
 ```bash
 git clone https://github.com/your-username/rag-customer-support-assistant.git
 cd rag-customer-support-assistant
+```
+### 2. Create Environment Variables
+Create a .env file in the root directory:
+```bash
+OPENAI_API_KEY=your_api_key_here
+```
+### 3. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+### 4. Run Streamlit App
+```bash
+streamlit run RAG_streamlit.py
+```
+### Docker Setup
+#### Build Image
+```bash
+docker build -t rag-app .
+```
+#### Run Container
+```bash
+docker run --env-file .env -p 8501:8501 rag-app
+```
+
+
+
